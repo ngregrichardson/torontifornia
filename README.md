@@ -1,0 +1,4 @@
+# Torontifornia
+This is my second Ludum Dare and my first time making a 2D game. I decided on a 3D one for LD42 which took up a lot of time, so I was excited to start this journey for LD43! Everything is from scratch, but the base art was made by a friend watching the stream (more than just programmer art <3). Sounds were all from my own very mouth, programming was unique (with a few statements here and there found on StackOverflow :P), and I ended with lots of time to spare! Enough about me though, let’s get on with the game!
+## Story
+Welcome to Torontifornia! You are the last remaining general of the USofC (United States of Canada) and you’ve been kicked out of your capital city, Torontifornia, by rebels. Fight! Win! But if you need better troops, you might have to sacrifice some of your own. Oh, and also, watch that morality bar! Anyway, that’s all in the instructions in the game. Here are some screenshots!
